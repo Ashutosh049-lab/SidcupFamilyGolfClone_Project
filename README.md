@@ -61,8 +61,11 @@ sidcup-family-golf/
 ## 📈 Optimizations
 ```
 Performance: Optimized images and minimized CSS/JS files
+
 Responsive Design: Mobile-first layout for tablets and smartphones
+
 Code Quality: Semantic HTML, reusable CSS classes, and modular JS functions
+
 UI/UX: Interactive sections and hover effects for better user experience
 ```
 
