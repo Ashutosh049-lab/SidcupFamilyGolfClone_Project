@@ -43,6 +43,7 @@ It is both a **portfolio-ready project** and a **learning tool** to practice mod
 ---
 
 ## 📁 Project Structure
+```
 sidcup-family-golf/
 ├── index.html # Main HTML file
 ├── css/
@@ -51,25 +52,29 @@ sidcup-family-golf/
 │ └── script.js # JavaScript file
 ├── images/ # Image assets
 └── README.md
+```
 
-text
+
 
 ---
 
 ## 📈 Optimizations
+```
 Performance: Optimized images and minimized CSS/JS files
 Responsive Design: Mobile-first layout for tablets and smartphones
 Code Quality: Semantic HTML, reusable CSS classes, and modular JS functions
 UI/UX: Interactive sections and hover effects for better user experience
+```
 
-text
 
 ---
 
 ## 🌐 Deployment
+```
 Push your repo to GitHub
 Connect it with Netlify
 Deploy and share your live app! 🚀
+```
 
 ---
 
