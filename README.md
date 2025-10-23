@@ -93,7 +93,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 Built with ❤️ by **Ashutosh Kumar Jaiswal**  
-Currently pursuing **Full-Stack Web Development @ Masai School**
 
 **Contact:**
 - ✉️ Email: [jashutosh528@gmail.com](mailto:jashutosh528@gmail.com)  
